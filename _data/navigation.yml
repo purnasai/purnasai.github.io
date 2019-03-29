@@ -1,7 +1,15 @@
-# main links
+#main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
+  - title: Portfolio
+    url: /portfolio/
+  - title: Learning Resource
+    url: /learningresource/
+  - title: Resume
+    url: https://purnasai.github.io/online-cv/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
