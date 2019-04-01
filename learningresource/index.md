@@ -5,7 +5,7 @@ tags: 5
 comments: false
 ---
 Who Ever lands on this page, This quote is for you.
-![image](assets/images/education.jpg)
+![image](/assets/images/education.jpg)
 
 ### Best resources for Deep learners, Machine learning , artificial intelligence
 
@@ -448,6 +448,6 @@ Cracking machine learning interview here.
 
 #### for more resources, look at my Medium Blogs [here](https://medium.com/@purnasaigudikandula/best-resources-for-deep-learners-machine-learning-artificial-intelligence-programming-be11c568b2fe)
 
-![image](assets/images/jackma_gobiggohome.jpg)
+![image](/assets/images/jackma_gobiggohome.jpg)
 
 ## Thank you 
