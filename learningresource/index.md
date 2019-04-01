@@ -446,5 +446,8 @@ machine learning cheat sheet before interview here.
 
 Cracking machine learning interview here.
 
-## Thank you
-#### for more resources, look at my Medium Blogs [here](https://medium.com/@purnasaigudikandula/best-resources-for-deep-learners-machine-learning-artificial-intelligence-programming-be11c568b2fe) 
+#### for more resources, look at my Medium Blogs [here](https://medium.com/@purnasaigudikandula/best-resources-for-deep-learners-machine-learning-artificial-intelligence-programming-be11c568b2fe)
+
+![image](assets/images/jackma_gobiggohome.jpg)
+
+## Thank you 
