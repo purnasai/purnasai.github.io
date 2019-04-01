@@ -3,9 +3,13 @@ layout: single
 title: About
 tags: 5
 comments: false
+header:
+  image: /assets/images/jackma_gobiggohome.jpg
 ---
 
-I am purnasai gudikandula, A Computer Science Graduate from JNTUK with 70%. 
+ The above is my lifequote.
+
+ I am purnasai gudikandula, A Computer Science Graduate from JNTUK with 70%. 
 
  If i felt so hard of any concept, then that pushes me to dig deep into the concepts and makes me to explore all the corners. its also making me to upgrade and update my self.
 

@@ -1,25 +1,14 @@
 ---
 layout: single
-title: Portfolio
+title: Top Resources to Learn Future
 tags: 5
 comments: false
 ---
+Who Ever lands on this page, This quote is for you.
+![image](assets/images/education.jpg)
 
-Only you can see this message
-This story is not part of the metered paywall. Learn more
+### Best resources for Deep learners, Machine learning , artificial intelligence
 
-Best resources for Deep learners, Machine learning , artificial intelligence, programming, interviews, jobs..
-Go to the profile of purnasai gudikandula
-purnasai gudikandula
-Dec 16, 2018
-UPDATED 15–02–2019
-
-
-DATA SCIENCE
-How to become Data Scientist?
-Quora hosts several individual opinions of their own. Here there are hundreds of opinions and suggestions that help you to become Data scientist.
-
-link here.
 
 Data science resources
 It has several resources raning from Free resources, Data science courses, Data science community, Data science tutorials, Data science webinars, Data science podcasts, Big Data talks, Python for Data science talks, R for Data science talks, Data science books, Data science news, Data science projects.
@@ -59,7 +48,6 @@ link here.
 
 16. Randy lao free data science resources here.
 
-
 17. IBM university here.
 
 18. The Data Science Course 2018: Complete Data Science Bootcamp here.
@@ -84,43 +72,10 @@ link here.
 
 28. learn data science with 0 investment here.
 
-PAID DATA SCIENCE COURSES
-JIg saw academy full stack data science course here.
 
-Imarticus data science course here.
 
-Simply learn Data scientist masters programme here.
+### MACHINE LEARNING
 
-Edureka data scientist masters programme here.
-
-Cognixia python data science programme here.
-
-FREE DATA scinece courses
-Data science academy free datascience course here.
-
-Class-Central free online popular courses here.
-
-My analytics mentor free data science course here.
-
-semati.ca how to start ML and Data Science here.
-
-Elite data science how to learn python for data science here.
-
-Data science school introduction to data science with python here.
-
-Alison’s free data science course here.
-
-Data science interview questions here.
-
-How to build data science project from scratch here.
-
-Data science Flash cards will be helpful before interview here.
-
-1–1 to mentorship website to get a mentor here.
-
-Google Analytics Academy free courses here.
-
-MACHINE LEARNING
 Machine Learning in 3 months
 Siraj raval says →”How is a total beginner supposed to get started learning machine learning? I’m going to describe a 3 month curriculum to help you go from beginner to well-versed in machine learning. Its an accelerated learning plan, something i’d create for myself if I were to get started today, but I’m going to open source it for you guys. This curriculum will cover all the math concepts, the machine learning theory, and the deep learning theory to get you up to speed with the field as fast as possible. If anyone asks how to best get started with machine learning, direct them to this video!”
 
@@ -164,13 +119,11 @@ link1 here.
 
 17. Machine leaning mastery course here.
 
-
 18. 200+ Best Machine Learning, Natural Language Process, and Python Tutorials for Programmers — 2018 here.
 
 19. Youtube channels for deeplearning and computer vision here.
 
 20. The most important machine learning books here.
-
 
 21. mlcourse.ai here.
 
@@ -188,13 +141,11 @@ link1 here.
 
 An overview on Gradient Descent optimization algorithm by sebastian here.
 
-
 Top highlights from the amazing machine learning tutorials at NuerIPs here.
 
 MAchine learning at Berkely university here.
 
-Excellent blog with **Graphic visuals on Machine learning here.
-
+Excellent blog with Graphic visuals on Machine learning here
 
 machine learning cheat sheet before interview here.
 
@@ -202,7 +153,10 @@ Excellent open Machine learning course here.
 
 Courses from Stanford AI lab here.
 
-DEEP LEARNING
+
+
+### DEEP LEARNING
+
 Fast.ai’s deep learning for coders here
 
 200+ Best Machine Learning, Natural Language Process, and Python Tutorials for Programmers — 2018 here.
@@ -253,14 +207,17 @@ Excellent youtube channel for Deep learning here.
 
 top deep learning papers 2018 here.
 
-NEURAL NETWORK
+
+
+### NEURAL NETWORK
+
 An Excellent beginner guide to understanding Neural networks here.
 
 understanding LSTM network here.
 
 Stanford CNN for visual recognition here.
 
-An Excellent blog on **neural networks here.
+An Excellent blog on neural networks here.
 
 A beginner guide to neural network here.
 
@@ -294,7 +251,10 @@ build Neural network from scratch in python here.
 
 Develop Excellent CNN model for Time series forcasting here.
 
-MATH FOR DATASCIENCE & MACHINE LEARNING
+
+
+### MATH FOR DATASCIENCE & MACHINE LEARNING
+
 If you want to learn Data Science, take a few of these statistics classes here.
 
 KD nuggets15 mathematics moocs for data science here
@@ -317,7 +277,7 @@ Essence of linear Algebra by 3blue1brown here.
 
 Mathematics for machine learning specialization by coursera here.
 
-Excellent blog on **Statistics with 3D visuals here
+Excellent blog on Statistics with 3D visuals here
 
 Statistics by JIM here.
 
@@ -329,7 +289,9 @@ Math of machine learning here.
 
 probability and statistics cook book here.
 
-GAN’s
+
+### GAN’s
+
 GAN’s will change the world here.
 
 Demistifying Generative Adverserial networks here.
@@ -362,14 +324,20 @@ Excellent ppt(presentation) on GANs here.
 
 KD nuggets how to read GANs paper here.
 
-Computer vision
+
+
+### Computer vision
+
 Computer vision resources for beginners here.
 
 Opencv tutorial here.
 
 pyimage search opencv tutorial here.
 
-NLP
+
+
+### NLP
+
 Natural language processing here.
 
 top NLP courses review here.
@@ -393,15 +361,11 @@ Data science tutorial for beginner here.
 
 secret of winning kaggle competition here.
 
-Excellent website for everything **BRILLIENT here.
+Excellent website for everything BRILLIENT here.
+ 
 
-GITHUB
-Learn github here below.
+### BLOGS
 
-link
-cheat sheet here.
-github guide here.
-BLOGS
 5 things Data science professionals should know to get hired here.
 
 5 tips to make Machine learning develpment work for you here.
@@ -434,36 +398,15 @@ Chris Albon Excellent blog here
 
 MIT opencourseware youtube channel here.
 
-Conferences
-All the AI conferences and their Dead lines here.
 
-PROGRAMMING
-Things that every programmer should know
-It covers from introduction to algorithms , data structures, time complexity, Memory complexity, Distributive systems, Regular expression, security, Architecture, careers, Opensource , problem solving, Soft skills, Papers on programming, Coding practice websites.
 
-Link here.
+### Algorithm
 
-The best programmes for learning to code
-it compares top learning websites like lynda, Code academy, khan academy , Tree house, Code HS , Code school, Code Avengers, Free code camp, and it compares all the features from these websites. ultimately its you that decides which is best.
-
-link here.
-
-500 free programming and computer science courses here.
-
-Java programmes for practice
-This has number based logical programmes, Number system and conversion, Series based programmes, String based programmes, Common logical programmes, Servlet based programmes, JDBC programmes, Reflection based programmes, Matrix based programmes, Pyramid programmes.
-
-link here.
-
-Developers collection
-This includes Resources, Tutorials, tools and blogs for software professionals, developers and engineers.
-
-link here.
-
-Algorithm
 Algorithm specialzation form coursera here.
 
-Python
+
+### Python
+
 Python notes for professionals covers all the topics that a professional should learn and master.
 
 link here.
@@ -477,29 +420,11 @@ link here.
 
 6. Excellent website for python programming here.
 
-PERSONAL WEBSITE:
-useful to establish a brand yourself in online. make a personal website for yourself , that might help you in making recruiters know more about you.
 
-link.
-link.
-link.
-link.
-E-BOOKS
-you can download free e- books here.
 
 Top Data science books for free here.
 
-download all IT e books here.
 
-ETHICAL HACKING
-Eduonix ethical hacking course here.
-
-CEHv9 -Ethical Hacking Course here.
-
-Free ethical hacking course here.
-
-ENGLISH LANGUAGE
-1000+ Free english lessons with ESL worksheets → link here.
 
 JOBS
 Jobs posting websites
@@ -521,72 +446,5 @@ machine learning cheat sheet before interview here.
 
 Cracking machine learning interview here.
 
-WALLPAPERS
-4K HD Wallpaper collection
-it has awesome collection of wallpapers ranging from festivals to animals, foods, Collapse, art, cars and bikes, celebrities, food, games, and everthing.
-
-link here.
-
-Pixabay here.
-
-visual hunt here.
-
-OTHERS
-Motivation:
-This is why only 1% succeed here.
-
-7books for success here.
-
-Secret codes
-all the secret and encrypted codes that help individuals in emergency time and helps them to escape. it had cipher key, tap code,vigenere cipher, Grid code, ROT cipher, Morse code and so on..
-
-link here.
-
-TED talk
-jeremy howard → father of AI’s ted talk here.
-
-Fei-Fei li ted talk here.
-
-top 36 ted talks on machine learning here.
-
-Ted talks that every Data scientist should listen here.
-
-Thank you for reading . soon this blog will be updated with more content. please like and share with your friends and also add your best courses or websites in the comments down.
-
-Thank you
-Comment down your thoughts and resources, will include them in blog soon.
-
-As usual feel free to talk to me more on linkedin.
-
-Purnasai Gudikandula - Udacity Pytroch Scholar - Udacity India | LinkedIn
-
-View Purnasai Gudikandula's profile on LinkedIn, the world's largest professional community. Purnasai has 5 jobs listed…
-www.linkedin.com	
-
-Machine LearningDeep LearningArtificial IntelligenceProgrammingPython
-Go to the profile of purnasai gudikandula
-purnasai gudikandula
-Data science | Machine learning intern at applied ai https://www.linkedin.com/in/purnasai-gudikandula-366b71129/
-
-Also tagged Programming
-Goodbye, Object Oriented Programming
-Go to the profile of Charles Scalfani
-Charles Scalfani
-Jul 23, 2016
-Related reads
-The Secret to Mastering ML
-Go to the profile of Harsh Sikka
-Harsh Sikka
-Sep 17, 2018
-Also tagged Machine Learning
-Your Cortex Contains 17 Billion Computers
-Go to the profile of Mark Humphries
-Mark Humphries
-Feb 12, 2018
-Responses
-1 response to your storyManage responses
-Applause from purnasai gudikandula (author)
-Go to the profile of Ahlem Bougattaya
-Ahlem Bougattaya
-Dec 23, 2018
-merci
+## Thank you
+#### for more resources, look at my Medium Blogs [here](https://medium.com/@purnasaigudikandula/best-resources-for-deep-learners-machine-learning-artificial-intelligence-programming-be11c568b2fe) 
