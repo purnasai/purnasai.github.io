@@ -25,14 +25,14 @@ header:
  Exploratory Data Analysis(EDA).
  Machine learning.
 
-**********If you found My profile impressive, I would be glad if you could Endorse me.***********
+Check out [My Medium blog](https://medium.com/@purnasaigudikandula) 
+My Github profile [here](https://github.com/purnasai) 
+i am a newbie in [kaggle](https://www.kaggle.com/purnasaig)
 
-My Medium blog : https://medium.com/@purnasaigudikandula 
-My Github profile : https://github.com/purnasai 
-kaggle: https://www.kaggle.com/purnasaig #beginner in kaggle
-
-please feel free to reach me out with below links links :-
+please feel free to reach out me at:-
 Gmail :- purnasaigudikandula@gmail.com
 say hello world @ 9676240902
 Tweet me @gpurnasai
+
+To know more about about me look out my [portfolio](https://purnasai.github.io/portfolio/)
 
