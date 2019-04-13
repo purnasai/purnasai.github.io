@@ -1,7 +1,3 @@
----
-header:
-  teaser: /assets/images/17.png
----
 *explore Convolutional Neural Networks*
 
 Check out the [lesson1](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) from Stanford [Convolutional Neural networks for visual recognition](http://cs231n.github.io/convolutional-networks/) class to know the History behind Neural Networks.
@@ -61,8 +57,6 @@ check out [here](https://www.coursera.org/lecture/convolutional-neural-networks/
 **Video classfication**
 
 **style transfer**
-
-……….
 
 ## What are Convolutional Neural Networks?
 
