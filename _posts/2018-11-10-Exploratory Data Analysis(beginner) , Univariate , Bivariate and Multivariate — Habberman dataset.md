@@ -1,3 +1,9 @@
+---
+header:
+  teaser: /assets/images/17.png
+
+---
+
 you  can check out this blog on my medium page [here](https://medium.com/@purnasaigudikandula/exploratory-data-analysis-beginner-univariate-bivariate-and-multivariate-habberman-dataset-2365264b751).
 
 Those who are new to data science and machine learning and if you are looking for some guidence and resources to prepare, then this [blog](https://becominghuman.ai/ultimate-guide-and-resources-for-data-science-2019-f663f9384fc7) is so great one that it had give some nice advices and guidence and also nearly given 2000 resources to prepare mostly for free. this [blog](https://becominghuman.ai/ultimate-guide-and-resources-for-data-science-2019-f663f9384fc7) has reached 25000views in just 5 days after it published.

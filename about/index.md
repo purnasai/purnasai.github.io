@@ -4,7 +4,7 @@ title: About
 tags: 5
 comments: false
 header:
-  image: /assets/images/jackma_gobiggohome.jpg
+  image: /assets/images/jackma.jpg
 
 ---
 
