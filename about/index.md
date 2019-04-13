@@ -5,6 +5,7 @@ tags: 5
 comments: false
 header:
   image: /assets/images/jackma_gobiggohome.jpg
+
 ---
 
  The above is my lifequote.
