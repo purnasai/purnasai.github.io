@@ -20,7 +20,7 @@ Hi this is my Portfolio.
 
 ### internship
 
-- Aadhya Analytics Inc
+> Aadhya Analytics Inc
  - may 2018 - sep 2018
  - vijayawada Area, india.
  - manual collection of datasets.
@@ -29,52 +29,10 @@ Hi this is my Portfolio.
 
 ### schloarship
 
-- Udacity intro to Deep learning with pytorch schloarship
+> Udacity intro to Deep learning with pytorch schloarship
  - Udacity india
  - nov 2018 - jan 2019
  - learnt Deep learning with pytorch. 
-
-### Blogs and course certificates
-
-- All my blogs are on the Home page, you can also view them on my medium page [here](https://medium.com/@purnasaigudikandula).
-
->**Python for Data science and Machine learning**,
-> sep 2018 - oct 2018
-> ![udemy22](/assets/images/portfolio/udemy22.jpg)
-
->**Machine learning A-Z & Hands on python for Data science**
-> Dec 2018 - Jan 2019
-> ![udemy22](/assets/images/portfolio/udemy44.jpg)
-
->**Machine learning Specializaion by AndrewNG**
-> Jan 2019 - feb 2019
-> ![ml](/assets/images/portfolio/ml.jpg)
-
->**Neural Networks and Deep Learning**
-> Jan 2019 - feb 2019
-> ![1](/assets/images/portfolio/1.jpg)
-
-
->**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**,
-> Jan 2019 - Feb 2019
-> ![2](/assets/images/portfolio/2.jpg)
-
->**Structuring Machine Learning Projects**
-> Feb 2019 - Mar 2019
-> ![3](/assets/images/portfolio/3.jpg)
-
->**Convolutional Neural Networks**
-> Feb 2019 - Mar 2019
-> ![4](/assets/images/portfolio/4.jpg)
-
->**Sequence Models**
-> Feb 2019 - Mar 2019
-> ![5](/assets/images/portfolio/5.jpg)
-
->**Deep Learning Specialization**
-> Jan 2019 - Feb 2019
-> ![6](/assets/images/portfolio/6.jpg)
-
 
 #### languages
 - English
