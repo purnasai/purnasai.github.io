@@ -12,7 +12,7 @@ Hi this is my Portfolio.
 
 ## Education
 
-> **B.tech in Computer Science Engineering** 
+> **B.tech in Computer Science Engineering**
   
   Usha Rama college of Eng & tech(JNTUK affliated)
   
