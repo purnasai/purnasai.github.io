@@ -26,6 +26,8 @@ header:
  - Elocution & Debate events
  and been **Team leader** for my Final year Graduation project with 3 other amazing minds on "Emotion detection using AI".
  
+I love being surroundded by tech & techies.
+
  In my final year i come to know about AI through a friend of mine. I got selected for 2 jobs in campus interview for *Webdesigning* and *Network administrator*.
  - with interest on AI, i applied and got selected for internship at Aadhya analytics from May-August 2018. 
  - After that intership i got selected for **Udacity Intro to Deep learning schloarhip** from Nov-Jan 2019.
