@@ -60,7 +60,7 @@ A Typical CNN consists of 2 important parts(look above figure):
 
 *With transfer learning, you use the convolutional base and only re-train the classifier to your dataset.*
 
-![ruder](/assets/images/deepview/ruder.png)
+![ruder](/assets/images/Deepview/ruder.png)
 
 ## Transfer learning scenarios:
 Transfer learning can be used in 3 ways:
