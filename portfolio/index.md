@@ -25,7 +25,7 @@ Hi this is my Portfolio.
  - vijayawada Area, india.
  - manual collection of datasets.
  - learnt several ML algorithms like Regressions, clustering.
- ![internship](/assets/images/portfolio/internship.jpg)
+![internship](/assets/images/portfolio/internship.jpg)
 
 ### schloarship
 
@@ -33,6 +33,15 @@ Hi this is my Portfolio.
  - Udacity india
  - nov 2018 - jan 2019
  - learnt Deep learning with pytorch. 
+
+
+### Blogs and course certificates
+
+- All my blogs are on the Home page, you can also view them on my medium page [here](https://medium.com/@purnasaigudikandula).
+
+- **Python for Data science and Machine learning**,
+ - sep 2018 - oct 2018
+ - ![udemy22](/assets/images/portfolio/udemy22.jpg) 
 
 #### languages
 - English
