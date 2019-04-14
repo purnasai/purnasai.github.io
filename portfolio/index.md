@@ -55,6 +55,26 @@ Hi this is my Portfolio.
 - Jan 2019 - feb 2019
 ![1](/assets/images/portfolio/1.jpg)
 
+**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**,
+- Jan 2019 - Feb 2019
+![2](/assets/images/portfolio/2.jpg)
+
+**Structuring Machine Learning Projects**
+- Feb 2019 - Mar 2019
+![3](/assets/images/portfolio/3.jpg)
+
+**Convolutional Neural Networks**
+- Feb 2019 - Mar 2019
+![4](/assets/images/portfolio/4.jpg)
+
+**Sequence Models**
+- Feb 2019 - Mar 2019
+![5](/assets/images/portfolio/5.jpg)
+
+**Deep Learning Specialization**
+- Jan 2019 - Feb 2019
+![6](/assets/images/portfolio/6.jpg)
+
 
 #### languages
 - English
