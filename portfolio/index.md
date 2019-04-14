@@ -39,9 +39,22 @@ Hi this is my Portfolio.
 
 - All my blogs are on the Home page, you can also view them on my medium page [here](https://medium.com/@purnasaigudikandula).
 
-- **Python for Data science and Machine learning**,
+**Python for Data science and Machine learning**,
  - sep 2018 - oct 2018
- - ![udemy22](/assets/images/portfolio/udemy22.jpg) 
+ ![udemy22](/assets/images/portfolio/udemy22.jpg) 
+
+**Machine learning A-Z & Hands on python for Data science**
+-  Dec 2018 - Jan 2019
+![udemy22](/assets/images/portfolio/udemy44.jpg)
+
+**Machine learning Specializaion by AndrewNG**
+- Jan 2019 - feb 2019
+![ml](/assets/images/portfolio/ml.jpg)
+
+**Neural Networks and Deep Learning**
+- Jan 2019 - feb 2019
+![1](/assets/images/portfolio/1.jpg)
+
 
 #### languages
 - English
