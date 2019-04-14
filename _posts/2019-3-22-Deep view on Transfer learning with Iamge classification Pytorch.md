@@ -24,7 +24,7 @@ This blog post is intended to give you an overview of what Transfer Learning is,
 
 Programme/code/application of transfer learning below in this blog with **98%** accuracy
 
-![img](/assets/images/deepview/img.png)
+![img](/assets/images/Deepview/img.png)
 
 I Think **Deep learning** has Excelled a lot in Image classification with introduction of several techniques from 2014 to till date with the extensive use of Data and **Computing resources.** The several state-of-the-art results in image classification are based on transfer learning solutions.
 
@@ -41,14 +41,14 @@ I Think **Deep learning** has Excelled a lot in Image classification with introd
 
 A Few images that tells you what Transfer learning is
 
-![img1](/assets/images/deepview/img1.png)
-![img2](/assets/images/deepview/img2.png)
+![img1](/assets/images/Deepview/img1.png)
+![img2](/assets/images/Deepview/img2.png)
 
 Several **pre-trained models** used in transfer learning are based on **large convolutional neural networks (CNN).**
 
 With transfer learning, you use the early and middle layers and only re-train the latter layers.
 
-![cnn](/assets/images/deepview/cnn.jpeg)
+![cnn](/assets/images/Deepview/cnn.jpeg)
 
 ## Typical CNN:
 A Typical CNN consists of 2 important parts(look above figure):
@@ -72,11 +72,11 @@ Transfer learning can be used in 3 ways:
 ### ConvNet as a fixed feature extractor:
 Take a ConvNet(VGG-16) pretrained on ImageNet(1.2M input images,1000ouput class scores), then remove the last fully-connected layer (this layer’s outputs are the 1000 class scores for a different task like ImageNet), then treat the rest of the ConvNet as a fixed feature extractor for the new dataset.
 
-![cnn](/assets/images/deepview/cnn.png)
+![cnn](/assets/images/Deepview/cnn.png)
 
 In an VGG16 pretrained on ImageNet(below figure), this would compute a 4096-D vector for every image that contains the activations of the hidden layer immediately before the classifier. Once you extract the 4096-D codes for all images, train a linear classifier (e.g. Linear SVM or Softmax classifier) for the new dataset.
 
-![nn](/assets/images/deepview/nn.png)
+![nn](/assets/images/Deepview/nn.png)
 
 ### Finetuning the ConvNet:
 
@@ -84,7 +84,7 @@ The second strategy is to not only replace and retrain the classifier on top of 
 
 a) It is possible to fine-tune all the layers of the ConvNet, or b)it’s possible to keep some of the earlier layers fixed (due to overfitting concerns) and only fine-tune some higher-level portion of the network
 
-![fine](/assets/images/deepview/fine.png)
+![fine](/assets/images/Deepview/fine.png)
 
 If you see this In left side image of VGG-16 the 1st 4 Conv blocks are frozen, last Conv and FC are tunned here, in right side image of VGG16 the 1st 5 Conv blocks are frozen , only last FC block was fine tunned here. its upto you and your datset to take of your choice.
 
@@ -95,13 +95,13 @@ Since modern ConvNets take 2–3 weeks to train across multiple GPUs on ImageNet
 
 **Transfer learning scenarios:**
 
-![tl](/assets/images/deepview/tl.png)
+![tl](/assets/images/Deepview/tl.png)
 1. *New dataset is small and similar to original dataset.* Since the data is small, it is not a good idea to fine-tune the ConvNet due to overfitting concerns. Since the data is similar to the original data, we expect higher-level features in the ConvNet to be relevant to this dataset as well. Hence, the best idea might be to train a linear classifier on the CNN codes.
 2. *New dataset is large and similar to the original dataset.* Since we have more data, we can have more confidence that we won’t overfit if we were to try to fine-tune through the full network.
 3. *New dataset is small but very different from the original dataset.* Since the data is small, it is likely best to only train a linear classifier. Since the dataset is very different, it might not be best to train the classifier form the top of the network, which contains more dataset-specific features. Instead, it might work better to train the SVM classifier from activations somewhere earlier in the network.
 4. *New dataset is large and very different from the original dataset.* Since the dataset is very large, we may expect that we can afford to train a ConvNet from scratch. However, in practice it is very often still beneficial to initialize with weights from a pretrained model. In this case, we would have enough data and confidence to fine-tune through the entire network.
 
-![Tl](/assets/images/deepview/Tl.png)
+![Tl](/assets/images/Deepview/Tl.png)
 
 ## Transfer learning using pytorch for image classification:
 In this tutorial, you will learn how to train your network using transfer learning. I recommend to use **google colab** for fast computing and speeding up processing.
@@ -115,7 +115,8 @@ These two major transfer learning scenarios look as follows:
 
 ### Packages:
 
-`from __future__ import print_function, division
+```
+from __future__ import print_function, division
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -127,13 +128,15 @@ import matplotlib.pyplot as plt
 import time
 import os
 import copy
-plt.ion()   # interactive mode`
+plt.ion()   # interactive mode
+```
 
 ### Data loading:
 The training archive contains 25,000 images of dogs and cats. you can download and know more about the data [here](https://www.kaggle.com/c/dogs-vs-cats/data).
 
-`# Data augmentation and normalization for training
+# Data augmentation and normalization for training
 # Just normalization for validation
+```
 data_transforms = {
     'train': transforms.Compose([
         transforms.RandomResizedCrop(224),
@@ -157,11 +160,13 @@ dataloaders = {x: torch.utils.data.DataLoader(image_datasets[x], batch_size=4,
               for x in ['train','val']}
 dataset_sizes = {x: len(image_datasets[x]) for x in ['train','val']}
 class_names = image_datasets['train'].classes
-device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")`
+device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+```
 
 ### Visualize few images:
 
-`def imshow(inp, title=None):
+```
+def imshow(inp, title=None):
     """Imshow for Tensor."""
     inp = inp.numpy().transpose((1, 2, 0))
     mean = np.array([0.485, 0.456, 0.406])
@@ -176,8 +181,9 @@ device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")`
 inputs, classes = next(iter(dataloaders['train']))
 # Make a grid from batch
 out = torchvision.utils.make_grid(inputs)
-imshow(out, title=[class_names[x] for x in classes])`
-![dog](/assets/images/deepview/dog.png)
+imshow(out, title=[class_names[x] for x in classes])
+```
+![dog](/assets/images/Deepview/dog.png)
 
 
 ### Training the model
@@ -189,7 +195,8 @@ Now, let’s write a general function to train a model. Here, we will illustrate
 
 In the following, parameter scheduler is an LR scheduler object from torch.optim.lr_scheduler.
 
-`def train_model(model, criterion, optimizer, scheduler, num_epochs=25):
+```
+def train_model(model, criterion, optimizer, scheduler, num_epochs=25):
     since = time.time()
     best_model_wts = copy.deepcopy(model.state_dict())
     best_acc = 0.0
@@ -239,12 +246,14 @@ In the following, parameter scheduler is an LR scheduler object from torch.optim
     print('Best val Acc: {:4f}'.format(best_acc))
     # load best model weights
     model.load_state_dict(best_model_wts)
-    return model`
+    return model
+```
 
 ### Visualizing the model predictions:
 Generic function to display predictions for a few images
 
-`def visualize_model(model, num_images=6):
+```
+def visualize_model(model, num_images=6):
     was_training = model.training
     model.eval()
     images_so_far = 0
@@ -264,12 +273,14 @@ Generic function to display predictions for a few images
                 if images_so_far == num_images:
                     model.train(mode=was_training)
                     return
-        model.train(mode=was_training)`
+        model.train(mode=was_training)
+```
 
 ### Finetuning the convnet:
 Load a pretrained model and reset final fully connected layer.
 
-`model_ft = models.resnet18(pretrained=True)
+```
+model_ft = models.resnet18(pretrained=True)
 num_ftrs = model_ft.fc.in_features
 model_ft.fc = nn.Linear(num_ftrs, 2)
 model_ft = model_ft.to(device)
@@ -277,34 +288,39 @@ criterion = nn.CrossEntropyLoss()
 # Observe that all parameters are being optimized
 optimizer_ft = optim.SGD(model_ft.parameters(), lr=0.001, momentum=0.9)
 # Decay LR by a factor of 0.1 every 7 epochs
-exp_lr_scheduler = lr_scheduler.StepLR(optimizer_ft, step_size=7, gamma=0.1)`
+exp_lr_scheduler = lr_scheduler.StepLR(optimizer_ft, step_size=7, gamma=0.1)
+```
 
 ### Train and evaluate
 It should take around 45–60 min on CPU. On GPU though, it takes less than a hour as we are working on dataset of huge size of 25000 images.
 
-`model_ft = train_model(model_ft, criterion, optimizer_ft, exp_lr_scheduler,num_epochs=25)`
+```
+model_ft = train_model(model_ft, criterion, optimizer_ft, exp_lr_scheduler,num_epochs=25)
+```
 at last epoch:
 
-`Epoch 24/24
+```
+Epoch 24/24
 ----------
 train Loss: 0.0822 Acc: 0.9650
 val Loss: 0.0315 Acc: 0.9876
 Training complete in 133m 50s
-Best val Acc: 0.988400`
+Best val Acc: 0.988400
+```
 
 We got the Accuracy on validation set of 98.84%
 
 ### Visualise the output
-`visualize_model(model_ft)`
+```visualize_model(model_ft)```
 
-![out](/assets/images/deepview/out.png)
+![out](/assets/images/Deepview/out.png)
 
 ### Similar tutorial
 You can find similar tutorial on Ants and Bees here in the official pytorch website [here](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html).
 
 ### Great minds on transfer learning:
 
-![andrew](/assets/images/deepview/andrew.png)
+![andrew](/assets/images/Deepview/andrew.png)
 
 ### Summary:
 - Transfer learning
