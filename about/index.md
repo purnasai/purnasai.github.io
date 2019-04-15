@@ -28,11 +28,11 @@ header:
  
 I love being surroundded by tech & techies.
 
- In my final year i come to know about AI through a friend of mine. I got selected for 2 jobs in campus interview for *Webdesigning* and *Network administrator*.
+ In my final year i come to know about AI through a friend of mine. I got selected for 2 jobs in campus interview for **Webdesigning** and **Network administrator**.
  - with interest on AI, i applied and got selected for internship at Aadhya analytics from May-August 2018. 
  - After that intership i got selected for **Udacity Intro to Deep learning schloarhip** from Nov-Jan 2019.
 
- I am Interested in **Machine learning , Deep learning, and Data science.** 
+ I am Interested in **Machine learning , Deep learning, and Data science.** Iv'e been spending time to learn and practice Machine learning and Deep learning from last one year. *Some say i wasted time, but i say I invested time in*
 
  - Had hands on python and its packages like numpy, pandas, matplotlib, seaborn, plotly, cufflinks.
  - Data visualisation.
