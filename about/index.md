@@ -13,7 +13,7 @@ header:
  I am purnasai gudikandula, A Computer Science Graduate from JNTUK with 70%. 
 
  - I am a **self thaught person**.I crave for learning. 
- - I am a **Quick learner** and can tune my self into any new Environments. 
+ - I am a **Quick learner** and can be a *Master* ina short span of time. I can tune my self into any new Environments- *Adaptability*. 
  If i felt so hard of any concept, then that pushes me to dig deep into the concepts and makes me to explore all the corners. its also making me to upgrade and update my self.
 
  I hate to be in comfort zone, because you wont have any chances to learn and to upgrade. I believe a "Smooth sea never made a skillful sailor".
