@@ -50,7 +50,7 @@ checkout my social profiles here:
 
 please feel free to reach out me at:-
 - Gmail :- purnasaigudikandula@gmail.com
-- say hello world @ 9676240902
+- say hello world @ 9014247977
 - Tweet me @gpurnasai
 
 To know about my Educational background & certificates look out my [portfolio](https://purnasai.github.io/portfolio/)
