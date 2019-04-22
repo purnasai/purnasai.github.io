@@ -54,6 +54,8 @@ please feel free to reach out me at:-
 - Tweet me @gpurnasai
 
 ### Resume 
+![resume](/assets/images/Purnasai_Resume.pdf)
+
 ![resume](/assets/images/Purnasai_Resume.jpg)
 
 To know about my Educational background & certificates look out my [portfolio](https://purnasai.github.io/portfolio/)
