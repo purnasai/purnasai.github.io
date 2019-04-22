@@ -18,6 +18,9 @@ Hi this is my Portfolio.
    - Always in the Top 5 students in the class.
    - Active participant in the presentations & seminars.
 
+#### check out my  resume [here](/home/purna/Desktop/Purnasai_Resume.jpg)
+
+
 ### internship
 
 > Aadhya Analytics Inc

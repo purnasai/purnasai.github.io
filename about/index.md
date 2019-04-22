@@ -53,6 +53,9 @@ please feel free to reach out me at:-
 - say hello world @ 9014247977
 - Tweet me @gpurnasai
 
+### Resume 
+![resume](assets/images/Purnasai_Resume.jpg)
+
 To know about my Educational background & certificates look out my [portfolio](https://purnasai.github.io/portfolio/)
 
 ![geffory](/assets/images/2.png)
