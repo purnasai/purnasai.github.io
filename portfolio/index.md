@@ -18,8 +18,6 @@ Hi this is my Portfolio.
    - Always in the Top 5 students in the class.
    - Active participant in the presentations & seminars.
 
-#### check out my  resume [here](https://drive.google.com/file/d/1SUs-NtGNru9prkmS2ee6TrOYx0cqs2uP/view?usp=sharing)
-
 #### my resume [here](/assets/images/Purnasai_Resume.pdf)
 
 ### internship
