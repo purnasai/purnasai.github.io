@@ -11,7 +11,13 @@ redirect_from:
 
 Papers
 ======
-  <ul>{% for post in site.talks %}
+  <!-- <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+
+ <ul>{% assign sorted_talks = site.talks | sort: 'date' | reverse %}
+    {% for post in sorted_talks %}
+      {% include archive-single-talk-cv.html %}
+    {% endfor %}
+  </ul>
   
