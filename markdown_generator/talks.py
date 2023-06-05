@@ -85,7 +85,10 @@ for row, item in talks.iterrows():
         
     if len(str(item.location)) > 3:
         md += "date: " + str(item.date) + "\n"
-    
+
+    if len(str(item.excerpt)) > 3:
+        md += 'subtitle: "' + str(item.excerpt) + '"\n'
+
     if len(str(item.location)) > 3:
         md += 'location: "' + str(item.location) + '"\n'
            
