@@ -56,17 +56,17 @@ https://huggingface.co/transformers/v4.9.2/_modules/index.html
 ```
 
 Mixed Precision:
-![[../assets/images/fsdp_img1.png]]
+![](../assets/images/fsdp_img1.png)
 
 Mixed precision in FSDP:
-![[../assets/images/fsdp_img2.png|center]]
+![](../assets/images/fsdp_img2.png)
 
 #### Details:
 - batch norm is automatically kept in fp32 for precision (overrides buffer policy, no user action needed).
 - local gradients during backprop are also always fp32 (automatic, no user action needed.)
 - Models are always saved in fp32 for max probability.
 
-![[../assets/images/fsdp_img3.png]]
+![](../assets/images/fsdp_img3.png)
 
 The above automatically checks bf16 native and GPU support.
 
