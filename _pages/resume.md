@@ -3,6 +3,8 @@ permalink: /resume/
 title: "Hi there 👋🏼 I am Purnasai"
 excerpt: "About me"
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 <object data="https://purnasai.github.io/files/functionalsample.pdf" type="application/pdf" width="700px" height="700px">
