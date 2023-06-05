@@ -49,3 +49,7 @@ The learning temperature is set to 0.07
 large minibatch size of 32,768 mixed precision was used to accelearte training.
 Gradient checkpointing, Half precision adam were used.
 
+#### Code:
+An Implemetation of Clip for Image retrieval using Both Text and Image is [here](https://github.com/purnasai/CLIP_Image_Retrieval).
+
+Thank you
