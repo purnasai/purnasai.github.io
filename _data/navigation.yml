@@ -4,7 +4,7 @@ main:
     url: /year-archive/
 
   - title: "Research Papers"
-    url: /portfolio/
-
-  - title: "Research Papper summaries"
     url: /cv/
+
+ - title: "Resume"
+    url: /resume/

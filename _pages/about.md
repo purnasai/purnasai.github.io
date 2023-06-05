@@ -18,7 +18,9 @@ redirect_from:
 
 ✋ I would like to Collaborate on Any Interesting project. 
 
-👋 Reach me at my [linkedin](https://www.linkedin.com/in/purnasai-gudikandula/), [Twitter](https://twitter.com/gpurnasai) [Github](https://github.com/purnasai) [Medium](https://medium.com/@purnasaigudikandula)
+👋 Reach me at my [linkedin](https://www.linkedin.com/in/purnasai-gudikandula/), [Twitter](https://twitter.com/gpurnasai).
+
+🔍 Check out My [Github](https://github.com/purnasai)  and [Medium](https://medium.com/@purnasaigudikandula)
 
 
- <p style="text-align: center;">Do Check out the Other Tags</p>
+🌻🌻🌻 <p style="text-align: center;">Do Check out the Other Tabs</p> 🌻🌻🌻
