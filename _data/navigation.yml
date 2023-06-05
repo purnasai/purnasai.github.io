@@ -1,0 +1,10 @@
+# main links links
+main:    
+  - title: "Blog Posts"
+    url: /year-archive/
+
+  - title: "Research Papers"
+    url: /portfolio/
+
+  - title: "Research Papper summaries"
+    url: /cv/
