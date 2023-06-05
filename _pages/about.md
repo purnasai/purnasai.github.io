@@ -23,4 +23,4 @@ redirect_from:
 🔍 Check out My [Github](https://github.com/purnasai)  and [Medium](https://medium.com/@purnasaigudikandula)
 
 
-🌻🌻🌻 <p style="text-align: center;">Do Check out the Other Tabs</p> 🌻🌻🌻
+<p style="text-align: center;"> 🌻🌻🌻 Do Check out the Other Tabs. 🌻🌻🌻</p>
