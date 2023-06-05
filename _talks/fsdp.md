@@ -5,7 +5,7 @@ permalink: /talks/fsdp
 excerpt: "Fit large model on small GPU<br/><img src='/images/500x300.png'>"
 date: 2023-06-01
 ---
- 
+
 Fully Sharded Data Parallel is a kind of DDP(Distributed Data parallel) process.
  
  Flavors of data parallelism:
@@ -56,17 +56,17 @@ https://huggingface.co/transformers/v4.9.2/_modules/index.html
 ```
 
 Mixed Precision:
-![[Pasted image 20230602153304.png]]
+![[../assets/images/fsdp_img1.png]]
 
 Mixed precision in FSDP:
-![[Pasted image 20230602153957.png|center]]
+![[../assets/images/fsdp_img2.png|center]]
 
-3 details:
+#### Details:
 - batch norm is automatically kept in fp32 for precision (overrides buffer policy, no user action needed).
 - local gradients during backprop are also always fp32 (automatic, no user action needed.)
 - Models are always saved in fp32 for max probability.
 
-![[Pasted image 20230602154538.png]]
+![[../assets/images/fsdp_img3.png]]
 
 The above automatically checks bf16 native and GPU support.
 
@@ -77,6 +77,7 @@ ShardingStrategy.FULL_SHARD ## Model+optimizer+gradient
 ShardingStrategy.NO_SHARD ## goes to DDP Mode
 ```
 
-Architecture: Model replicas with only part of the parameters in run.
+#### Architecture: 
+Model replicas with only part of the parameters in run.
 
-![[fsdp_architecture.jpeg]]
+![](../assets/images/fsdp_architecture.jpeg)
