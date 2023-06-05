@@ -2,6 +2,7 @@
 title: "Fully Sharded Data Paralell"
 collection: talks
 permalink: /talks/fsdp
+excerpt: "Fit large model on small GPU<br/><img src='/images/500x300.png'>"
 date: 2023-06-01
 ---
  
