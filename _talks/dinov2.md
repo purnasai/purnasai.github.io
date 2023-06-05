@@ -1,3 +1,10 @@
+---
+title: "Dino V2- DIstillation with NO knowledge"
+collection: talks
+permalink: /talks/dinov2
+date: 2023-05-12
+---
+
 Paper [here](https://arxiv.org/abs/2304.07193)
 
 ![](../assets/images/dino_v2_img1.png)
