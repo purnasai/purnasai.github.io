@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+.
 ======
  <ul>{% assign sorted_talks = site.talks | sort: 'date' | reverse %}
     {% for post in sorted_talks %}
