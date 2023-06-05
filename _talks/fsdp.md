@@ -1,7 +1,7 @@
 ---
 title: "Fully Sharded Data Paralell"
 collection: talks
-permalink: /talks/2023-06-01-talk-4
+permalink: /talks/fsdp
 date: 2023-06-01
 ---
  
