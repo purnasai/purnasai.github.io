@@ -1,3 +1,10 @@
+---
+title: "Attention is All you Need - Birth Of Modern AI"
+collection: talks
+permalink: /talks/attentionisallyouneed
+date: 2023-06-03
+---
+
 This is more of my understandings about Transformers rather than the paper summary.
 
 The paper that revolutionized the Modern Deep learning both in computer vision, Natural language processing, audio, speech and more. These were first introduced for Language translation.
