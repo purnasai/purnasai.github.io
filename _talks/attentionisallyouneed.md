@@ -2,7 +2,7 @@
 title: "Attention is All you Need - Birth Of Modern AI"
 collection: talks
 permalink: /talks/attentionisallyouneed
-date: 2023-06-03
+date: 2023-05-03
 ---
 
 This is more of my understandings about Transformers rather than the paper summary.
