@@ -1,3 +1,10 @@
+---
+title: "ImageBIND- 6 Modalities in One Embedding space with Image as BinD"
+collection: talks
+permalink: /talks/imagebind
+date: 2023-06-01
+---
+
 6 modalities embeddings into a common Embedding space. But all these 6 are binded with Image embeddings using image paired data for every single modality as a single shared representation space. hence the name ImageBind. Till now self supervised models like [CLIP](CLIP.md) has only a bi modal space for Text and Image embeddings.
 
 ![](../assets/images/imagebind_img1.png)
