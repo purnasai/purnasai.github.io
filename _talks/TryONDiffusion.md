@@ -1,3 +1,11 @@
+---
+title: "TryONDiffusion Paper summary"
+collection: talks
+permalink: /talks/TryONDiffusion
+excerpt: "A Tale of 2 U-Nets with Cross-Attention Communication"
+date: 2023-06-17
+---
+
 A tale of 2 U-Nets communicating through Cross-attention.
 
 ![](../assets/images/tryondiffusion_img1.png)
