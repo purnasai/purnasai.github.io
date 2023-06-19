@@ -20,7 +20,7 @@ The Image Encoder is a SWIN like Vision Transformer pre-trained on massive image
 
 SOTA performance on video tasks as well without Video-Dedicated encoders.
 
-Architecture:
+### Architecture:
 The image encoder is a contrastive pre-trained model. The input is raw image and output is compact 2D feature map, which is flattened into a list of features, with an extra layer and layer norm layer, the image features are projected in to D dimensions, which is input to text decoder.
 
 CoCa model unifies the Contrastive Task and Generation Task as a single pre-training phase. We seperated the two tasks sequentially
@@ -38,7 +38,6 @@ Thank you
 
 In recent years, text-driven generative models Stable Diffusion, Imagen, DALLE-2, MUSE have emerged as powerful tools for image synthesis.
 
-Reference:
+### Reference:
 - https://github.com/microsoft/GenerativeImage2Text
-- 
 
