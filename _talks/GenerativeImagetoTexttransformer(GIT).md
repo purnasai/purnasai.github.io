@@ -1,3 +1,11 @@
+---
+title: "Generative Image to Text - with Single Image Encoder & Single Image Decoder"
+collection: talks
+permalink: /talks/GenerativeImagetoTexttransformer
+date: 2023-06-18
+---
+
+
 Generative Image to Text transformer using a single Image Encoder and single text Decoder with no need for object detectors.
 ![](../assets/images/git_img1.png)
 
