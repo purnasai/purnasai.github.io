@@ -1,6 +1,5 @@
-It's good to be writing again after a long time.
-
 ![dinofeatures](/assets/images/dino_pca_features.png)
+
 *Visualization of Image features with PCA Components*
 
 - Paper Review

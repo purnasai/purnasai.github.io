@@ -1,3 +1,5 @@
+![NNimage](/assets/images/nnimage.gif)
+
 *In this post we are going to explore RNN’s and LSTM's.*
 
 **you can chek out this blog on my medium page [here](https://medium.com/@purnasaigudikandula/recurrent-neural-networks-and-lstm-explained-7f51c7f6bbb9)**

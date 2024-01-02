@@ -1,3 +1,5 @@
+![img](/assets/images/Deepview/img.png)
+
 *A Brief Tutorial on Transfer learning with pytorch and Image classification as Example.*
 
 you can check out this blog on  medium page [here](https://medium.com/@purnasaigudikandula/deep-view-on-transfer-learning-with-iamge-classification-pytorch-5cf963939575))

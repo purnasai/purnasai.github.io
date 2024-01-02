@@ -1,8 +1,9 @@
+![begin](/assets/images/styletrans/begin.png)
+
 *stylize the images with Neural networks using pytorch*
 
 you can checkout this blog on my medium page [here](https://medium.com/@purnasaigudikandula/artistic-neural-style-transfer-with-pytorch-1543e08cc38f)
 
-![begin](/assets/images/styletrans/begin.png)
 
 **Earlier:** The first published paper on **neural style transfer used an optimization technique** — that is, starting off with a random noise image and making it more and more desirable with every “training” iteration of the neural network.
 

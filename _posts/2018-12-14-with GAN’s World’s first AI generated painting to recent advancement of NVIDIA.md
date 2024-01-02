@@ -1,6 +1,6 @@
-check out this blog on my medium page [here](https://becominghuman.ai/with-gans-world-s-first-ai-generated-painting-to-recent-advancement-of-nvidia-b08ddfda45b1)
-
 ![pic](/assets/images/gan/pic.jpg)
+
+check out this blog on my medium page [here](https://becominghuman.ai/with-gans-world-s-first-ai-generated-painting-to-recent-advancement-of-nvidia-b08ddfda45b1)
 
 If you are a Beginner in Deep learning i suggest you check out these blogs.
 

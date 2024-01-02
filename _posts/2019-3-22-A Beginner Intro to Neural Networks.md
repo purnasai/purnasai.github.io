@@ -1,3 +1,5 @@
+![nn](/assets/images/nn/nn.gif)
+
 *you are going to explore Neural Networks*
 
 checkout this blog on my medium page [here](https://medium.com/@purnasaigudikandula/a-beginner-intro-to-neural-networks-543267bda3c8)
@@ -13,8 +15,6 @@ ANNs, like people,like child, they even learn by example. An ANN is configured f
 Neural networks (NN) are universal function approximaters so that means neural networks can learn an approximation of any function f() such that.
 
 y = f(x)
-
-![nn](/assets/images/nn/nn.gif)
 
 you can check several other Neural Networks [here](https://www.google.com/search?q=neural+networks&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj4mrSRlZrhAhVFfysKHYKQAEQQ_AUIDigB&biw=1327&bih=588).
 
