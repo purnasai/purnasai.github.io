@@ -17,10 +17,14 @@ redirect_from:
  <ul>{% assign sorted_talks = site.talks | sort: 'date' | reverse %}
     {% for post in sorted_talks %}
       {% include archive-single-talk-cv.html %}
+      <p>{{ post.excerpt | markdownify }}</p>
+      {% if post.image %}
+        <img src="{{ post.image }}" alt="Image for {{ post.title }}" style="max-width: 300px;">
+      {% endif %}
     {% endfor %}
   </ul>
 
-<ul>
+<!-- <ul>
   {% assign sorted_talks = site.talks | sort: 'date' | reverse %}
   {% for post in sorted_talks %}
     <li>
@@ -31,4 +35,4 @@ redirect_from:
       {% endif %}
     </li>
   {% endfor %}
-</ul>
+</ul> -->
