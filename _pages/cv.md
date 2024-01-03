@@ -8,13 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-<div>
+<!-- <div>
   <img src="path_to_your_image.jpg" alt="Image Description" style="width: 100%; max-width: 600px;">
 </div>
-<hr>
+<hr> -->
 
 
-======
  <ul>{% assign sorted_talks = site.talks | sort: 'date' | reverse %}
     {% for post in sorted_talks %}
       {% include archive-single-talk-cv.html %}
