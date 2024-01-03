@@ -1,4 +1,4 @@
-![dinofeatures](/assets/images/dino_pca_features.png)
+![dinofeatures | 300](/assets/images/dino_pca_features.png)
 
 *Visualization of Image features with PCA Components*
 

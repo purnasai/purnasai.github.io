@@ -5,7 +5,10 @@ main:
 
   - title: "Research Papers"
     url: /cv/
-    
+  
+  - title: "learn"
+    url: https://github.com/purnasai/sAI_Vault
+
   - title: "Resume"
     url: /resume/
 
