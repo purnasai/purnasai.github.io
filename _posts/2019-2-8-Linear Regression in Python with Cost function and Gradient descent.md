@@ -1,4 +1,6 @@
-![chart](/assets/images/Lr/chart.png)
+<p align="center" width="100%">
+    <img width="50%" src="/assets/images/Lr/chart.png">
+</p>
 
 Machine learning has Several algorithms like
 

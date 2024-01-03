@@ -1,4 +1,7 @@
-![begin](/assets/images/styletrans/begin.png)
+<p align="center" width="100%">
+    <img width="50%" src="/assets/images/styletrans/begin.png">
+</p>
+
 
 *stylize the images with Neural networks using pytorch*
 

@@ -1,4 +1,7 @@
-![NNimage](/assets/images/nnimage.gif)
+<p align="center" width="100%">
+    <img width="50%" src="/assets/images/nnimage.gif">
+</p>
+
 
 *In this post we are going to explore RNN’s and LSTM's.*
 

@@ -1,4 +1,6 @@
-![nn](/assets/images/nn/nn.gif)
+<p align="center" width="100%">
+    <img width="50%" src="/assets/images/nn/nn.gif">
+</p>
 
 *you are going to explore Neural Networks*
 

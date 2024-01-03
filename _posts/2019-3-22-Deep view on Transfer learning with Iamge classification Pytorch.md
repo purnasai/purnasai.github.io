@@ -1,4 +1,7 @@
-![img](/assets/images/Deepview/img.png)
+<p align="center" width="100%">
+    <img width="50%" src="/assets/images/Deepview/img.png">
+</p>
+
 
 *A Brief Tutorial on Transfer learning with pytorch and Image classification as Example.*
 

@@ -1,4 +1,6 @@
-![pic](/assets/images/gan/pic.jpg)
+<p align="center" width="100%">
+    <img width="50%" src="/assets/images/gan/pic.jpg">
+</p>
 
 check out this blog on my medium page [here](https://becominghuman.ai/with-gans-world-s-first-ai-generated-painting-to-recent-advancement-of-nvidia-b08ddfda45b1)
 

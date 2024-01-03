@@ -1,4 +1,7 @@
-![cnn](/assets/images/cnn/cnn.png)
+<p align="center" width="100%">
+    <img width="50%" src="/assets/images/cnn/cnn.png">
+</p>
+
 
 *explore Convolutional Neural Networks*
 
