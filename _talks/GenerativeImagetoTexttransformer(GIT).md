@@ -5,9 +5,9 @@ permalink: /talks/GenerativeImagetoTexttransformer
 date: 2023-06-18
 ---
 
+![](../assets/images/git_img1.png)
 
 Generative Image to Text transformer using a single Image Encoder and single text Decoder with no need for object detectors.
-![](../assets/images/git_img1.png)
 
 Existing works had complex structures like multiple encoders and decoders, also they depend on external object taggers/detectors and OCR.
 
