@@ -1,4 +1,7 @@
-![dinofeatures | 300](/assets/images/dino_pca_features.png)
+<p align="center" width="100%">
+    <img width="33%" src="/assets/images/dino_pca_features.png">
+</p>
+
 
 *Visualization of Image features with PCA Components*
 
