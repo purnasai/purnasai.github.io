@@ -4,7 +4,6 @@ collection: talks
 permalink: /talks/GenerativeImagetoTexttransformer
 date: 2023-06-18
 ---
-Generative Image to Text transformer using a single Image Encoder and single text Decoder with no need for object detectors.
 
 <p align="center" width="100%">
     <img width="50%" src="/assets/images/git_img1.png">
