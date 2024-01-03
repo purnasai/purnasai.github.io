@@ -5,10 +5,6 @@ permalink: /talks/MarkupLM
 date: 2023-06-17
 ---
 
-<p align="center" width="100%">
-    <img width="50%" src="/assets/images/markuplm_img1.png">
-</p>
-
 Multimodal pretraining with text, image, and layout made progress in recent times. One uses 2D positional information i.e. BBoxes to identify the position of text in the layout. For the Large no of digital documents with consistent changes in layouts, existing models are not working. 
 
 Authors proposed MarkupLM, where both the **text** and **markup** information is pre-trained. While the layout and style of Markup Pages change with respect to Devices the pages opened. with frequent changes in layout in different devices, fixed layout-trained models don't perform well. 

@@ -5,11 +5,6 @@ permalink: /talks/attentionisallyouneed
 date: 2023-05-03
 ---
 
-<p align="center" width="100%">
-    <img width="50%" src="/assets/images/attention_img1.png">
-</p>
-
-
 This is more of my understanding of Transformers rather than the paper summary.
 
 The paper revolutionized Modern Deep learning in computer vision, Natural language processing, audio, speech, and more. These were first introduced for Language translation.

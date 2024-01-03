@@ -6,10 +6,6 @@ excerpt: "Segmentation using CLIPs Multimodality Embedding space & a Conditinal 
 date: 2023-05-25
 ---
 
-<p align="center" width="100%">
-    <img width="50%" src="/assets/images/Clipseg_img1.png">
-</p>
-
 Image segmentation using Text and Image Prompts. 
 
 General image segmentation is addressed by training a model for fixed set of objects. Incorporating additional classes requires re-training. Predicting each pixel is image segmentation.

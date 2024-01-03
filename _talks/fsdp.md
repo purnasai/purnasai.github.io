@@ -6,10 +6,6 @@ excerpt: "Fit large model on small GPU<br/><img src='/images/500x300.png'>"
 date: 2023-06-01
 ---
 
-<p align="center" width="100%">
-    <img width="50%" src="/assets/images/gan/pic.jpg">
-</p>
-
 Fully Sharded Data Parallel is a kind of DDP(Distributed Data parallel) process.
  
  Flavors of data parallelism:

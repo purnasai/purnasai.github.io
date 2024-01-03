@@ -5,10 +5,6 @@ permalink: /talks/DreamSim
 date: 2023-06-18
 ---
 
-<p align="center" width="100%">
-    <img width="50%" src="/assets/images/Dreamsim_img1.png">
-</p>
-
 For Image similarity.
 
 Traditional/regular/classical  image similarity refers to the alikeness (or) visual stimuli between 2 images. It uses low-level features such as color, texture, and shape (or) High-level semantic features (wheel, bumper, doors).  Low-level image similarity metrics L1, L2, MSE, PSNR, SSIM, as well as learned perceptual metrics such as LPIPS, and DISTS(with CNN Backbones). These metrics focus on the Pixel/Patch level only & not high-level features.

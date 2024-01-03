@@ -6,11 +6,6 @@ excerpt: "Image & Text as single Multimodality Embedding space."
 date: 2023-05-10
 ---
 
-<p align="center" width="100%">
-    <img width="50%" src="assets/images/Clip_img1.png">
-</p>
-
-
 Learning Transferable visual Models from Natural Language supervision
 
 A dataset of 400 Million Image-Text pairs are used as part of pretraining task of predicting which image caption goes with which image.

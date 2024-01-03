@@ -6,10 +6,6 @@ excerpt: "A Tale of 2 U-Nets with Cross-Attention Communication"
 date: 2023-06-17
 ---
 
-<p align="center" width="100%">
-    <img width="50%" src="/assets/images/tryondiffusion_img1.png">
-</p>
-
 A tale of 2 U-Nets communicating through Cross-attention.
 
 ![](../assets/images/tryondiffusion_img1.png)
