@@ -1,4 +1,7 @@
-# Discovering Emerging Product Badges at Scale with LLMs
+<p align="center" width="100%">
+    <img width="50%" src="/assets/images/llms_pdp_badges/sample1.png">
+</p>
+
 
 > We built a batch pipeline that helps data teams surface newly introduced product badges across large e-commerce corpora **before** XPath rules and CSS selectors silently break. The LLM does not replace the crawler — it classifies a small set of candidate lines discovered cheaply across the store.
 
