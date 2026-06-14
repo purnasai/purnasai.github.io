@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="50%" src="/assets/images/llms_pdp_badges/sample1.png">
+    <img width="50%" src="/assets/images/llms_pdp_badges/sample0.png">
 </p>
 
 
