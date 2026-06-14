@@ -37,6 +37,10 @@ These badges drive measurable behavior:
 
 For product intelligence platforms, badges are not cosmetic UI. They are **structured attributes** that analysts, pricing teams, and search relevance systems consume — when extraction keeps up.
 
+![sample1](/assets/images/llms_pdp_badges/sample1.png)
+![sample2](/assets/images/llms_pdp_badges/sample2.png)
+![sample3](/assets/images/llms_pdp_badges/sample3.png)
+
 ---
 
 ## The Engineering Problem
